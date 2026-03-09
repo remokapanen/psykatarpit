@@ -1,0 +1,74 @@
+# 2016
+
+## Tentti
+
+Muutamia jo käsiteltyjä aihepiirejä, tässä pari uutta
+
+### Akuutin psykoosin lääkehoidon päälinjat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Akuutin psykoosin lääkehoidon tavoitteena on potilaan ahdistuneisuuden lievittäminen, turvallisuuden varmistaminen ja psykoottisten oireiden (harhaluulot, aistiharhat) hillitseminen. Potilaalle tulisi aina pyrkiä perustelemaan lääkehoidon tarpeellisuus ja korostaa hoidon olevan lääketieteellisesti arvioiden tarpeellinen. Potilaan huolia kannattaa myös kuunnella, vaikka hän huutaisikin yms. 
+
+Käytännössä psykooseissa tarvitaan aina lääkehoitoa, joten jos potilas kieltäytyy lääkehoidosta, mutta hyväksyisi esimerkiksi psykiatriseen päivystykseen menemistä vain keskustelemaan, niin voi silti tehdä M1, koska lääkehoito on pakollinen osa hoitoa ja M1 tulisi sitten muutenkin tehdä. 
+
+**Yleensä lääkehoitoon kuuluu antipsykootti + rauhoittava lääke (yleensä bentso).** Lääkehoidon valinta vaihtelee hieman sen mukaan, onko potilas hoitomyönteinen/yhteistyökykyinen vai sairaudentunnoton/hoitokielteinen/aggressiivinen. 
+
+**Jos potilas on yhteistyökykyinen, niin ensisijaisesti lääkitys annetaan p.o.** 
+
+<li>Antipsykootiksi ensisijaisesti toisen polven antipsykootti, kuten risperidoni 2(-4) mg p.o.; nykyään näin usein psykoosirelapsipotilaillakin. Alkuannosta säädetään vasteen 
+mukaan. Monoterapiaan on hyvä pyrkiä. Tarvittavana voi olla myös vanhempi psykoosilääke (esm. haloperidoli) jos oireilu pahenee äkisti ja lisälääkitys on tarpeen.</li>
+<li>Rauhoittavaksi lääkkeeksi bentsodiatsepiinit, esim. loratsepaami 1-2(-4)mg p.o., oksatsepaami 7,5-15(-30)mg p.o. tai diatsepaami 5-10(-20)mg p.o. (vain akuuttivaiheessa, ei pitkäaikaiseen käyttöön); voi olla tarvittavana lääkityksenä listalla.  Unilääke myös tarv (esim ketiapiini tai tematsepaami).</li>
+
+**Jos potilas on yhteistyökyvytön, niin lääkitys annetaan i.m.** 
+
+<li>Klassinen lääkekombo on ns. norsupyssy eli Haloperidoli 5 mg ja loratsepaami 4 mg i.m. Iäkkäillä potilailla annokset luokkaa neljäsosa - puolet näistä.</li>
+<li>Siirtyminen per os lääkitykseen heti kun se on mahdollista.</li>
+
+Huom. jos potilas on katatoninen, niin bentsodiatsepiinit (loratsepaami) ovat yleensä ensisijaisia ja antipsykootit voivat pahentaa oireilua. 
+  </div>
+</div>
+
+### Mitkä tekijät vaikuttavat psykoterapian tuloksellisuuteen?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+Monet tekijät vaikuttavat ja  terapiasuuntauksen (esim. kognitiivinen vs. psykodynaaminen) merkitys on usein pienempi kuin muiden, niin kutsuttujen yhteisten tekijöiden. Lambertin mallin mukaan tärkeimmät tekijät ovat: 
+
+<li>Asiakasmuuttujat ja ulkopuoliset tekijät; n. 40%</li>
+  <ul>
+   <li>Motivaatio ja muutosvalmius: Kuinka valmis potilas on työskentelemään ja kohtaamaan vaikeita tunteita? Psykoterapia edellyttää keskeisimmin potilaalta juuri motivaatiota ja sitoutumista. Vaste jää heikoksi ilman potilaan halua muutokseen ja omaa panosta psykoterapiaan.</li>
+   <li>Riittävät kognitiiviset taidot ja oivalluskyky</li>
+   <li>Sosiaalinen tuki: Onko potilaalla ystäviä, perhettä tai työpaikka, joka tukee toipumista?</li>
+   <li>Resilienssi ja vahvuudet: Potilaan aiemmat selviytymiskeinot ja kognitiiviset kyvyt</li>
+   <li>Elämänolosuhteet: Onko potilaalla turvallinen koti ja taloudellinen vakaus? (On vaikea keskittyä sisäiseen kasvuun, jos perusturvallisuus horjuu)</li>
+ </ul>
+<li>Terapiasuhde; n. 30 %</li>
+  <ul>
+   <li>Yksimielisyys tavoitteista: Potilas ja terapeutti ovat samaa mieltä siitä, mitä ollaan tekemässä ja miksi</li>
+   <li>Luottamus ja turvallisuus: Potilas uskaltaa olla häpeilemättä oma itsensä</li>
+ </ul>
+<li>Toivo ja lumevaikutus; n. 15%</li>
+  <ul>
+   <li>Jos potilas uskoo menetelmään, tulokset ovat yleensä parempia</li>
+ </ul>
+<li>Terapiatekniikka ja menetelmät; n. 15 %</li>
+  <ul>
+   <li>Jotkut tekniikat toimivat paremmin tietyissä häiriöissä: esimerkiksi altistushoito fobioissa</li>
+ </ul>
+ 
+![](images/lambert.png)
+  </div>
+</div>

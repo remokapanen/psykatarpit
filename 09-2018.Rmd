@@ -1,0 +1,52 @@
+# 2018
+
+## Tentti 
+
+Pääasiassa masennuksesta avoimia kysymyksiä. Suurin osa jo käsitelty aikaisemmin, joten ei kaikkia masennuksen aihepiirejä tässä alla. 
+
+### Masennuslääkkeiden lopetusoireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+SSRI-/SNRI-lääkehoidon äkilliseen lopetukseen liityy usein ns. vieroitusoireita, jotka voi muistaa muistisäännöstä FINISH:
+
+<li>F (Flu-like symptoms): Flunssankaltaiset oireet, kuten väsymys, lihassärky, vilunväristykset ja päänsärky.</li>
+<li>I (Insomnia): Unettomuus, eloisat ja häiritsevät unet tai painajaiset.</li>
+<li>N (Nausea): Pahoinvointi, joskus oksentelu tai vatsakivut.</li>
+<li>I (Imbalance): Huimaus, tasapainovaikeudet ja huojuva olo.</li>
+<li>S (Sensory disturbances): Aistihäiriöt, joista tyypillisimpiä ovat "sähköiskumaiset" tuntemukset päässä tai raajoissa (niin sanotut brain zaps).</li>
+<li>H (Hyperarousal): Ahdistuneisuus, ärtyneisyys, levottomuus ja itkuherkkyys</li>
+
+Oireiden voimakkuus korreloi suoraan lääkkeen puoliintumisajan kanssa. Korkein riski on tämän takia lyhyen puoliintumisajan lääkkeillä, kuten venlafaksiinilla (SNRI) ja paroksetiinilla (SSRI). Matalin riski on taas fluoksetiinilla (SSRI), jolla on huomattavan pitkä puoliintumisaika ja lopettamista seuraa erittäin harvoin merkittäviä vieroitusoireita. 
+
+Vieroitusoireiden välttämiseksi lääkkeet lopetetaan aina hitaasti, ei äkillisesti. Jos käyttö on ollut esim. puolen vuoden - vuoden luokkaa, niin lopetetaan asteittain viikkojen kuluessa. Monia vuosia kestänyt lääkehoito lopetetaan jopa kuukausien kuluessa. Pienellä osalla oireet ovat huomattavan voimakkaita ja aiheuttavat merkittävää haittaa, jolloin ne saadaan nopeasti väistymään aloittamalla lääke uudelleen. Tämän jälkeen SSRI-lääkehoidon lopetus voidaan suunnitella tapahtuvaksi aiempaa pidemmällä aikavälillä tai lääke voidaan vaihtaa ensin pitkän puoliintumisajan fluoksetiiniksi. 
+  </div>
+</div>
+
+### Skitsofrenian somaattiset oireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+TK-lääkärin kannalta tärkein skitsofrenian somatiikan alue on liitännäissairaudet ja niiden aiheuttama eliniänodotteen lyhentyminen (n. 10-15 vuotta). Taustalla on sekä psykoosilääkitykset että myös yleinen alttius somaattisille sairauksille ja myös mahdollisesti pitkittyneiden sairausjaksojen aiheuttama itsestään huolehtimisen heikentyminen. 
+
+<li>Metabolinen oireyhtymä (Antipsykootit (erityisesti klotsapiini ja olantsapiini) nostavat painoa ja vaikuttavat sokeri- ja rasva-aineenvaihduntaan)</li>
+<li>Sydän- ja verisuonitaudit (Yhdistelmä lääkitystä, runsasta tupakointia (yli 60–80 % potilaista) ja vähäistä liikuntaa)</li>
+<li>Tyypin 2 diabetes (Riski on moninkertainen muuhun väestöön verrattuna; osittain lääkityksestä johtuvaa)</li>
+<li>Hyperprolaktinemia (Tietyt lääkkeet nostavat prolaktiinitasoja, mikä voi johtaa kuukautishäiriöihin, galaktorreaan (maitovuotoon), gynekomastiaan...)</li>
+<li>Hampaiden huono kunto (Suun kuivuminen (useimmiten lääkehaitta antikolinergisesta lääkityksestä johtuen) ja puutteellinen itsehoidon kyky)</li>
+
+Vakavana somaatisena ilmentymänä voi myös ilmentyä katatoniaa. Katatonia on oireyhtymä, joka voi olla osana kaikkia psykoosisairauksia ja mielialahäiriöitä; siihen liittyy kolmea erilaista oiretyyppiä: liikkeiden kiihtymistä, liikkeiden vähenemistä tai estymistä (äärimuoto on katatoninen stupor, joka nykyään harvinainen) ja vaikeita tahdon häiriöitä. Yleensä oireyhtymä on hypokineettinen ja stuporissa (jähmettyminen) henkilö on liikkumaton eikä ole kontaktissa ympäristöön. Oireet on tärkeä tunnistaa, sillä niiden hoito eroaa muiden psykoosioireiden hoidosta. Katatonian hoito on samanlaista sen syystä riippumatta. Ensisijainen hoito on bentsodiatsepiini (tavallisesti loratsepaami). Katatoniapotilaita voidaan hoitaa tehokkaasti tarvittaessa myös aivojen sähköhoidolla (ECT). Tarvittaessa sähköhoitoa voidaan antaa useamman kerran päivän aikana kliinisen tilan ollessa vaikea-asteinen. 
+  </div>
+</div>

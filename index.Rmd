@@ -1,0 +1,27 @@
+--- 
+title: "Psykiatrian tärpit"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: 
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About 
+
+Tentit koostuvat pääasiassa avonaisista kysymyksistä. Mukana on hieman suljetumpia kysymyksiä sekä myös laajoja potilastapauksia. 
+
+Suuressa osassa tenteistä ei ole mallivastauksia, joten olen näiden kohdalla yrittänyt vastata omalla tavallani kysymyksiin. Joissain taas löytyy mallivastaukset, mutta ne ovat usein vaikealukuisia ja näiden kohdalla olen yrittänyt muokata vastauksia siistimmiksi. 
+
+## Yleiset tenttivinkit 
+
+Tenteissä on viime vuonna kysytty pääosin aina suunnilleen samoja asioita. Tärkeimmät aihepiirit ovat: masennus, kaksisuuntainen mielialahäiriö, ahdistus, alkoholin/bentsojen käytön häiriö, unettomuus, psykoosi/psykoosin prodromaalivaihe ja M1-lähetteen kriteerit/sen laatiminen. Jos robotit pakottaisivat valitsemaan vain yhden, niin kannattaa opetella M1, koska se on helposti toistuvin kysymystyyppi. 
+
+### Kysymysten rakenne 
+
+Yleensä kysymykset ovat nykyään potilastapauksia ja ainakin yhdessä niistä kysytään aina tyyppiä "Mitä taustatietoja haluaisit mahdollisesti vielä kartoittaa?" Tämä on rasittava kysymys sen laajuuden takia ja vastaukset voivat olla hyvinkin pitkiä, mutta kyseessä on sinänsä helppo kysymys. Tulee vain seurata yleispsykiatrista haastattelua ja kysyä kaikki siihen liittyvät kysymykset, jonka lisäksi vielä kysyä erotusdiagnostiikkaan sopivia kysymyksiä esimerkiksi erillisistä oireista sen perusteella, mitä muistaa diagnostisista kriteereistä tai kyselylomakkeista. Järkeä käyttämällä pääsee pitkälle. 

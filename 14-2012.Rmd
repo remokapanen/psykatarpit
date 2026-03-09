@@ -1,0 +1,143 @@
+# 2012
+
+## Skipattu vuosi 
+
+Vuoden 2013 tenttiä ei ole wikissä, joten hypätään vuoteen 2012. 
+
+### Psykoosista
+
+- a. Skitsofrenian etiologia, periytyvyyden vaikutus
+- b. Lapsivuodepsykoosin kliininen kuva
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Skitsofrenian synty voidaan ymmärtää **stressi-alttiusmallin** pohjalta, eli taustalla on siis alttius skitsofrenialle + ympäristön stressitekijät. 
+
+**Alttius:**
+
+<li>Käytännössä tärkein skitsofreniaa ennakoiva riskitekijä on ensiasteen sukulaisella esiintyvä skitsofrenia tai muu psykoosi. Tällöin sairastumisriski on noin kymmenkertainen (noin 10 %) normaaliväestöön verrattuna (n. 1%). On kuitenkin muistettava, että valtaosassa tapauksista skitsofreniaan sairastuneen perheessä ei esiinny skitsofreniaa eikä muitakaan psykooseja</li>
+<li>Jos molemmilla vanhemmilla on skitsofrenia, niin riski on n. 40%. Identtisen kaksosen riski on n. 50%. </li>
+<li>On satoja alttiusgeenejä, jotkut yleisiä (mutta suhteellisesti pienen riskin) ja jotkut harvinaisia (mutta suhteellisesti korkean riskin) </li>
+<li>Perintötekijöiden vaikutusta on vaikeaa erittää ympäristötekijöistä, mutta toisaalta hyvin toimiva perheympäristö voi vähentää geneettistä riskiä.</li>
+
+**Ympäristöön liittyviä riskitekijöitä voivat olla muun muassa:**
+
+<li>Odottavan äidin stressi, raskaudenaikaiset ja synnytyksen komplikaatiot </li>
+<li>Nälkiintyminen</li>
+<li>Lapsuudessa sairastetut keskushermoston infektiot</li>
+<li>Lapsuus- ja nuoruusiän traumat ja kaltoin kohtelu; erityisesti maahanmuuttajilla ja siihen liittyvä syrjäytyminen ja psykososiaalinen vähäosaisuus</li>
+<li>Huumeet, ennen muuta kannabis</li>
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Lapsivuodepsykoosi (psychosis postpartalis) on psykiatrinen hätätilanne, mutta onneksi harvinainen (n. 1-2/1000 synnyttäjää). Tila on hengenvaarallinen sekä äidille että lapselle. Alkaa tyypillisesti hyvin nopeasti, useimmiten 3-10 vuorokauden kuluessa synnytyksestä. 
+
+Ensimmäiset oireet ovat yleensä unettomuus, voimakkaat mielialavaihtelut ja ärtyisyys. Tavallisia oireita ovat sekavuus sekä keskittymiseen ja muistiin liittyvät ongelmat ja myös harhaluulot, jotka voivat liittyä vauvaan. Riski sekä itsensä, että vauvan vahingoittamiseen on koholla, mutta kuitenkin absoluuttisella tasolla vähäinen (lapsenmurhan riski n. 4 %). Äiti saattaa uskoa lapsen olevan esim. riivattu, "vaihdokas", Jeesus-lapsi tai että lapsi on vaarassa ja hänet pitää "pelastaa" surmaamalla. Lapsen tappamisen jälkeen äiti usein tappaa itsensä. 
+
+Hoito on sairaalassa, useimmiten tahdonvastaisena. Antipsykootit ja mielialantasaajat ensilinjassa. 
+
+On tärkeää erottaa lapsivuodepsykoosi tavallisesta synnytyksen jälkeisestä masennuksesta tai lievästä "baby bluesista". Psykoosissa todellisuudentaju hämärtyy.
+  </div>
+</div>
+
+### Bipolaarihäiriön lääkehoito
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Hoito jaetaan yleensä akuuttivaiheen hoitoon ja ylläpitohoitoon; kaikki lääkkeet eivät toimi kaikissa vaiheissa ja ovat taas parempia toisissa vaiheissa. Kaksisuuntaisen mielialahäiriön hoidon aloittaminen kuuluu ESH:n tehtäviin. 
+
+
+Tärkeimmät lääkkeet ovat mielialantasaajat, mutta myös (2. sukupolven) antipsykootteja käytetään paljon. Masennuslääkkeiden käyttö on varovaista eikä niitä käytetä vaikeissakaan masennusvaiheissa yksinään, koska se voisi laukaista manian. 
+
+Mielialaa tasaaviksi lääkkeiksi lasketaan litium, valproaatti, karbamatsepiini ja lamotrigiini. Litium ja valproaatti soveltuvat niin maniavaiheen, sekamuotoisen kuin masennusvaiheen hoitoon sekä ylläpitohoitoon. Karbamatsepiinilla ei ole tehoa masennusvaiheen hoidossa, eikä lamotrigiinilla maniavaiheen hoidossa. Eräät psykoosilääkkeet ovat myös mielialaa tasaavia, mutta niitä ei yleensä lueta kuuluviksi tähän lääkeryhmään, vaan pelkästään psykoosilääkkeisiin. Mielialaa tasaavia lääkkeitä voidaan käyttää kaksisuuntaisen mielialahäiriön hoidossa joko yksin tai yhdessä psykoosilääkkeiden kanssa. Esimerkiksi aripipratsoli soveltuu maniavaiheen ja sekamuotoisen vaiheen hoitoon, ketiapiini paremmin masennusvaiheen hoitoon ja ylläpitohoitoon. Myös olantsapiini on tehokas masennusvaiheen akuuttihoidossa ja ylläpitohoidossa. Kuitenkin olantsapiinin metaboliset haittavaikutukset ovat huomattavia, mikä rajoittaa lääkkeen käyttöä. Mahdolliset metaboliset haitat vaativat säännöllistä laboratorioseurantaa ja painon punnitsemista. Bentsodiatsepiineja voidaan käyttää maniassa alkuvaiheessa mielialaa tasaavan ja antipsykoottisen lääkehoidon tukena. 
+
+<li>Lamotrigiinista kannattaa muistaa se, että se voi aiheuttaa vaarallisen Stevens-Johnsonin oireyhtymän (hengenvaarallinen ihoreaktio). Tämän takia potilaan käsketään seuraamaan ihottumien syntyä ja lääke täytyy lopettaa, jos ilmenee jotakin ihottumaa.</li>
+<li>Litiumin yleisimpiä haittavaikutuksia ovat mm. kilpirauhas- ja munuaishaitat, vapina ja polydipsia; lääkkeellä on myös kapea terapeuttinen ikkuna ja korkeahko myrkytysriski, jos annosta ei säädellä stressitilanteissa (esim. ripulitaudissa annoksen lasku)</li>
+
+---
+
+Keskeinen osa hoitoa on opettaa potilasta tunnistamaan jaksoja ennakoivat ensioireet ja varomerkit. Hoitomyöntyvyysongelmat ovat tavallisia ja liittyvät usein voinnin huonontumisiin. Lisääntynyt riski liittyy myös epäsäännölliseen päivärytmiin, univajeeseen, päihteiden käyttöön ja stressaaviin elämäntilateisiin. Vuorotyötä ei suositella.
+  </div>
+</div>
+
+### Vaikean persoonallisuushäiriön hoito
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Vaikeiden persoonallisuushäiriöiden hoito on pitkäjänteistä ja moniammatillista, ja hoidon keskeinen tavoite on toimintakyvyn parantaminen, oireiden lievittäminen ja ihmissuhteiden vakauttaminen.
+
+Psykoterapia on useimmiten hoidon keskeisin muoto ja sen tehokkuus vaihtelee eri persoonallisuushäiriöiden välillä. Esimerkiksi epävakaassa persoonallisuudessa sen teho on todella hyvä, kun taas monissa muissa paljon heikompi. 
+
+Persoonallisuushäiriöön ei ole varsinaista parantavaa lääkehoitoa ja lääkkeitä käytetään pääasiassa komorbiditeettien hoitamiseen (esim. SSRI:t masennuksessa). 
+
+Hoitoon kuuluu usein myös yleinen psykososiaalinen tuki: hyvä psykiatrinen hoitosuhde, arjen ja ihmissuhteiden tukeminen, omahoito-oppaat, psykoedukaatio...
+
+Tarvittaessa lyhytaikaiset psykiatriset osaastohoidot vaikeissa kriisitilanteissa tai itsetuhoisuudessa (esim. epävakaa persoonallisuus) tai vaikean toimintakyvyn laskun yhteydessä. 
+  </div>
+</div>
+
+### Alle 18-vuotiaan ja aikuisen tahdosta riippumattoman hoidon edellytykset
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Täysi-ikäisten tahdosta riippumattoman hoidon kriteerit: 
+
+<li>Kaikki seuraavat kolme ehtoa täyttyvät samanaikaisesti:</li>
+  <ul>
+    <li>Hänen todetaan olevan mielisairas.</li>
+    <li>Hän on mielisairautensa vuoksi hoidon tarpeessa siten, että hoitoon toimittamatta jättäminen olennaisesti pahentaisi hänen mielisairauttaan tai vakavasti vaarantaisi hänen terveyttään tai turvallisuuttaan tai vakavasti vaarantaisi muiden henkilöiden terveyttä tai turvallisuutta.</li>
+    <li>Mitkään muut mielenterveyspalvelut eivät sovellu käytettäväksi tai ovat riittämättömiä</li>
+  </ul>
+
+Lääketieteellisesti mielisairaudella tarkoitetaan sellaista vakavaa mielenterveyden häiriötä, johon liittyy selvä todellisuudentajun häiriintyminen ja jota voidaan pitää psykoosina. Nykyisen tautiluokituksen mukaan tällaisena tilana voidaan pitää deliriumtiloja, skitsofrenian eri muotoja, elimellisiä ja muita harhaluuloisuustiloja, psykoottisia masennustiloja, kaksisuuntaisia mielialahäiriöitä (mania), muistisairauksien vaikea-asteisia ilmenemismuotoja sekä muita psykooseja kuten orgaaniset psykoosit ja päihteiden käytön aiheuttamat psykoottiset tilat. 
+
+---
+
+Alaikäisten tahdosta riippumattoman hoidon kriteerit: 
+
+<li>Kaikki seuraavat kolme ehtoa täyttyvät samanaikaisesti:</li>
+  <ul>
+    <li>Hänellä on vakava mielenterveyden häiriö tai mielisairaus</li>
+    <li>Hän on hoidon tarpeessa vakavan mielenterveyden häiriön tai mielisairauden vuoksi siten, että hoitoon toimittamatta jättäminen olennaisesti pahentaisi hänen sairauttaan tai vakavasti vaarantaisi hänen terveyttään tai turvallisuuttaan tai vakavasti vaarantaisi muiden henkilöiden terveyttä tai turvallisuutta</li>
+    <li>Mitkään muut mielenterveyspalvelujen vaihtoehdot eivät sovellu käytettäviksi</li>
+  </ul>
+
+Alaikäisellä riittää vakava mielenterveyden häiriö. Nyrkkisääntö: Voi olla lähes mikä tahansa mielenterveyden häiriö, joka olennaisesti vaarantaa nuoruusiän kehityksen ja/tai aiheuttaa merkittävän toimintakyvyn aleneman. Kannattaa myös huomioida, että akuutit psykoottistasoiset oireet tulkitaan alaikäisellä käytännössä aina vakavaksi mielenterveyden häiriöksi -> vaikka alaikäinen potilas olisi psykoottinen, hänellä voi aina käyttää perusteena vakavaa mielenterveyden häiriöitä (eikä mielisairautta).
+
+---
+
+Kannattaa huomata, että alaikäisillä ei saa käyttää syytä: "muut mielenterveyspalvelujen vaihtoehdot ovat riittämättömät". Lain mukaan lapsilla tulisi olla riittävät palvelut, joten vaikka palvelut olisivatkin riittämättömät, niin näin ei saa sanoa. 
+  </div>
+</div>

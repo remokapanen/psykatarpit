@@ -1,0 +1,51 @@
+# 2017
+
+## Tentti 
+
+Muutamia jo käsiteltyjä kysymyksiä, ei niitä uudestaan.
+
+### Alkoholiriippuvuuden lääkehoito
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Alkoholiriippuvuuden lääkehoito ei ole ihmelääke, mutta ne tukevat psykososiaalista hoitoa ja auttavat potilasta saavuttamaan tavoitteensa (joko täysraittiuden tai käytön vähentämisen). Psykososiaaliset hoidot ovat siis alkoholiriippuvuuden hoidon perusta, mutta tulosta voidaan parantaa lääkityksellä merkittävästi (keskimäärin 15–25 %).
+
+
+Suomessa on käytössä kolme ensisijaista lääkeaineryhmää, joilla on eri vaikutusmekanismit: opioidiantagonistit, disulfiraami ja akamprosaatti. 
+
+<li>Opioidiantagonistit</li>
+  <ul>
+   <li>Salpaavat µ-opioidireseptorin -> vähentävät humaltumiseen liittyvää mielihyvää</li>
+   <li>Vähentää repsahduksen riskiä ja "putken" jatkumista. Voidaan käyttää päivittäin (ainakin naltreksonin kanssa yleensä 3kk päivittäin, jonka jälkeen tarvittaessa) tai tarvittaessa (Sinclair-metodi). Sinclairin metodi tarkoittaa sitä, että otetaan opioidiantagonisti aina tunti ennen juomista, jota kautta hiljalleen opitaan, että juominen ei olekaan niin hauskaa (lääke vähentää mielihyvää juomisesta) -> hiljalleen juominen loppuu.</li>
+   <li>Soveltuvat parhaiten potilaille, jotka eivät pysty lopettaa aivan kokonaan heti, mutta merkittävästi vähentää juomista</li>
+   <li>Yleisimmin käytetty opioidiantagonisti on naltreksoni, mutta harvemmin myös nalmefeenia käytetään. Nalmefeeni on kalliimpi ja sillä on enemmän haittavaikutuksia kuin naltreksonilla. Haittavaikutuksista tyypillisimpiä ovat maksahaitat.</li>
+  </ul>
+<li>Disulfiraami (Antabus)</li>
+  <ul>
+   <li>Estää aldehydidehydrogenaasi-entsyymiä -> alkoholin nauttimisen jälkeen asetaldehydiä kertyy ja aiheuttaa elimistöön myrkkyreaktion (ns. antabusrekatio, jonka oireita on voimakas hikoilu, kasvojen punoitus, sydämen tykytys, verenpaineen lasku, huimaus ja pahoinvointi). Disulfiraamin vaikutus ei siis perustu addiktion neurobiologiseen mekanismiin, vaan alkoholin ja disulfiraamin samanaikaisen käytön aiheuttamaan aversiiviseen yhteisvaikutukseen.</li>
+   <li>Soveltuu parhaiten niille, jotka tavoittelevat täysraittiutta, koska lääkitys estää tehokkaasti juomista reaktion takia. Tosin jotkut juovat lääkityksen läpikin ja tämä saattaa olla hengenvaarallista.</li>
+   <li>Antabus-hoito voidaan aloittaa vasta, kun alkoholi on kokonaan poistunut potilaan verestä. Hoidon tulisi kestää 0.5–1 v, minkä jälkeen relapsivaara pienenee. Relapsin sattuessa voidaan lääkitys uusia. Jotkut voivat halutessaan käyttää lääkitystä kymmeniä vuosiakin, jos se ei aiheuta haittavaikutuksia (yleisimmin maksahaittoja).</li>
+  </ul>
+<li>Akamprosaatti</li>
+  <ul>
+   <li>Toimii GABA-reseptorin agonistina ja oletetaan vähentävän alkoholihimoa (paras lääke tähän)</li>
+   <li>Soveltuu käytettäväksi vaikeasti ja keskivaikeasti alkoholiriippuvaisille terapian tukena, kun tavoitteena on pysyminen erossa alkoholista. Käyttöaihe on siis erityisesti relapsin estäminen katkaisuhoidon jälkeen.</li>
+   <li>Suomessa lääkkeellä ei ole voimassa olevaa myyntilupaa, mutta lääkäri voi määrätä sitä Lääkealan turvallisuus- ja kehittämiskeskuksen (Fimea) erityisluvalla. Perustelu erityislupavalmisteen käytölle esim: Potilaan alkoholiriippuvuuden oireena on voimakas mieliteko juoda alkoholia. Myyntiluvalliset lääkkeet eivät ole tehokkaita vähentämään mielitekoa juoda alkoholia.</li>
+   <li>On erityisen hyödyllinen lääke silloin, kun potilaalla on maksaongelmia ja ei voi käyttää opioidiantagonisteja tai disulfiraamia niiden maksariskien takia (maksa-arvoja (ALAT, GT, Bil) tulee seurata disulfiraamin tai naltreksonin käytön aikana ja ne tulee tarkistaa ennen hoitoa). Akamprosaatin haittavaikutukset on todettu vähäisiksi; yleisin on ripuli, muita raportoituja dyspepsia, pahoinvointi, oksentelu ja kutina </li>
+  </ul>
+
+---
+
+Lisäksi voidaan alkoholiriippuvuuden lääkehoitoon laskea vieroitusoireidenkin hoito 
+
+<li>Tässä bentsodiatsepiinit ovat kultainen standardi. Annostelu perustuu mm. oireiden vaikeusasteeseen (esim. CIWA-Ar-asteikko)</li>
+<li>Tulee myös muistaa tiamiinin anto, joka estää Wernicken enkefalopatiaa. Tiamiini on annettava ennen glukoosipitoisia nesteitä.</li>
+
+  </div>
+</div>
