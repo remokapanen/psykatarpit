@@ -4,9 +4,46 @@
 
 Vuoden 2009 kysymyksiä ei ole wikissä. 
 
-*Vastaukset tulossa
+*Loputkin vastaukset vielä tulossa
 
 ### Laihuushäiriön ydinoireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Anoreksian (anorexia nervosa, laihuushäiriö) ydinoireet voisi tiivistää näin: tarkoituksellisesti aiheutettu ja ylläpidetty nälkiintymistila, alipaino ja syömisen vakava rajoittaminen, jonka psykopatologisena taustana on pelko lihavuudesta ja ruumiinkuvan vääristyminen. Aliravitsemustila johtaa lopulta laaja-alaiseen endokriiniseen häiriöön ja aineenvaihdunnan hidastumiseen (bradykardia, hypotensio, hypotermia). Tyypillinen laihuushäiriö on helppo tunnistaa kliinisen kuvan perusteella. Painon laskun syiden selvittäminen voi joskus olla hankalaa, koska sairastunut rationalisoi oireensa, salaa rituaalinsa ja vastustaa hoitoon hakeutumista.
+
+Erotusdiagnostisesti on syytä sulkea pois laihtumista aiheuttavat somaattiset sairaudet erityisesti silloin, kun laihuushäiriö alkaa tavallista myöhemmällä iällä, taudinkuva on epätyypillinen tai siihen liittyy runsaasti somaattisia oireita. Painon laskua voi liittyä joihinkin pitkäaikaisiin sairauksiin, kuten keliakiaan ja muihin imeytymishäiriöihin, kilpirauhasen liikatoimintaan, Addisonin tautiin tai diabetekseen. Huomioon on otettava myös pahanlaatuiset sairaudet, huumeiden käyttö ja HIV. Erottava piirre näissä somaattisissa sairauksissa on, että sairastunut on aidosti huolissaan painonlaskusta ja että esille ei tule vääristynyttä ruumiinkuvaa.
+
+---
+
+Tarkemmin tyyppipiirteet voi muistaa anoreksian ICD-10-kriteerien perusteella: 
+
+1. Potilaan paino on vähintään 15 % alle pituuden mukaisen keskipainon tai BMI on korkeintaan 17,5 kg/m2.
+2. Painon lasku on aiheutettu itse välttämällä "lihottavia" ruokia. Lisäksi saattaa esiintyä liiallista liikuntaa, itse aiheutettua oksentelua sekä ulostuslääkkeiden, nestettä poistavien tai ruokahalua hillitsevien lääkkeiden käyttöä
+3. Potilas on mielestään liian lihava ja pelkää lihomista. Kyseessä on ruumiinkuvan vääristymä. Potilas asettaa itselleen alhaisen painotavoitteen
+4. Todetaan laaja-alainen hypotalamus-aivolisäke-sukupuolirauhasakselin endokriininen häiriö, joka ilmenee naisilla kuukautisten puuttumisena ja miehillä seksuaalisen mielenkiinnon ja potenssin heikkenemisenä. Jos häiriö alkaa ennen murrosikää, kasvu ja murrosiän fyysiset muutokset viivästyvät tai pysähtyvät.
+5. Bulimian kriteerit A ja B eivät täyty (= ei toistuvia ylensyömisjaksoja eikä ajattelua hallitse syöminen/voimakas halu syödä)
+
+Epätyypillinen anoreksia tarkoittaa, että potilaalla on tyypillisiä anoreksian oireita, mutta jokin tai jotkin edellä mainituista diagnostisista kriteereistä (avainoireista) puuttuvat tai avainoireet esiintyvät lieväasteisina. 
+
+--- 
+
+Diagnostisten piirteiden lisäksi voi ilmentyä mm.
+
+<li>anemiaa, elektrolyyttihäiriöitä (useimmiten hyponatremiaa ja hypokalemiaa; hypokalemia voi osittain johtua mahdollisesta purging-toiminnasta eli esim. oksentelusta)</li>
+<li>pienentynyttä luutiheyttä (lopulta osteopenia/osteoporoosi -> murtumariski)</li>
+<li>hidastunutta perusaineenvaihduntaa (bradykardia, hypotensio ja vähentyneet suoliäänet)</li>
+<li>sydänfilmissä usein sinusbradykardia ja pidentynyt QT-aika</li>
+<li>lanugokarvoitusta (utukarvoitus) eli havaitaan nukkamaista karvoitusta. Useimmiten lanugoa on vain sikiöillä (joskus vastasyntyneillä vielä pari viikkoa), mutta aikuisilla se usein viittaa vakavaan aliravitsemustilaan (voi ajatella, että lanugoa kasvaa tarkoituksena pitää aliravittu keho lämpimänä). </li>
+
+  </div>
+</div>
 
 ### Kolme eri lääkeryhmään kuuluvaa ahdistuneisuuden hoidon lääkettä, niiden edut, haitat ja muut huomioon otettavat asiat
 

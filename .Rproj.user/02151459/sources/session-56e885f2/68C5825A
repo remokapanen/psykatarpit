@@ -3,7 +3,7 @@
     "path": "D:/Projektit/psykatarpit/18-2008.Rmd",
     "project_path": "18-2008.Rmd",
     "type": "r_markdown",
-    "hash": "430514588",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1772944378473.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,33",
-        "scrollLine": "0"
+        "cursorPosition": "43,0",
+        "scrollLine": "27"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773067102,
+    "lastKnownWriteTime": 1773115822,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773067100060,
+    "last_content_update": 1773115820862,
     "read_only": false,
     "read_only_alternatives": []
 }
