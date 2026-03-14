@@ -56,6 +56,8 @@ Ensisijainen työdiagnoosi on bentsodiatsepiiniriippuvuus. Potilaalla on pitkäk
 
 Erotusdiagnostisesti voisi tulla mieleen yleistynyt ahdistuneisuushäiriö, mutta bentsodiatsepiiniriippuvuus nousee esille suurempana tekijänä laajemman oirekuvan taustalla. Masennustilakin sinänsä voisi olla taustalla ja bentsojen pitkäaikaiskäyttö itsessäänkin voi aiheuttaa masennusoireita. Mielialan alentuminen ei kuitenkaan tullut suuresti tehtävänannossa esille. 
 
+![](images/riippuvuusoireet.png)
+![](images/riippuvuusicd10.png)
   </div>
 </div>
 
@@ -69,9 +71,15 @@ Erotusdiagnostisesti voisi tulla mieleen yleistynyt ahdistuneisuushäiriö, mutt
 
 Hoitosuunnitelmassa on tärkeää lähteä ottamaan riippuvuutta haltuun, eikä annoksen nostaminen nyt ole tässä tilanteessa oikea ratkaisu potilaalle. Potilaan kanssa tulee käydä läpi, että oireet todennäköisesti johtuvat bentsojen suuresta käytöstä ja tärkein hoito tässä vaiheessa on hallittu vieroitus niistä pois avohoidossa. Tavoitteena on palauttaa potilaan työkyky, elämänilo ja parantaa unen laatu, jota nykyinen lääkitys itse asiassa rikkoo.
 
-Annosta ei saa koskaan lopettaa seinään (kouristusvaara, delirium). Ennen lääkelaskun aloittamista lääkkeen käyttöä seurataan täyttämällä päiväkirjaa 1–2 viikon ajan. Lääkelaskun aloitusannosta varten arvioi potilaan käyttämä bentsodiatsepiiniannos/vrk. Mikäli potilas käyttää useita eri bentsodiatsepiinivalmisteita, laske kokonaisvuorokausiannos diatsepaamiekvivalenttiannoksena (taulukoita apuna, ei tarvitse ulkoa osata). Lääkkeen purkaminen pyritään toteuttamaan yhdellä bentsodiatsepiinivalmisteella (esimerkiksi oksatsepaami tai diatsepaami), eli vaihdetaan potilaan nopeavaikutteisemmat valmisteet pidempivaikutteisemmaksi diatsepaamiksi. Bentsodiatsepiinilääkitys puretaan laskemalla vuorokausiannosta 10–25 % kerrallaan 1–3 viikon välein. Voinnin tarkistus ja kannustus ensimmäisen annoslaskun jälkeen joko vastaanotolla tai puhelimitse. Jos annoslaskun jälkeen ilmenee vieroitusoireita, ei nosteta annosta, vaan hidastetaan laskutahtia. Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
+Annosta ei saa koskaan lopettaa seinään (kouristusvaara, delirium). Bentsojen ajasalo voidaan toteuttaa monella tavalla ja välillä se voidaan toteuttaa PTH:ssakin, jos potilaalla ei ole merkittäviä komorbiditeetteja tai päihteiden sekakäyttöä ja on motivoitunut hoitosuunnitelmaan. Annos ajetaan usein hitaasti alas pudottamalla vrk-annosta tilanteesta riippuen n. 10-25% 1-3 viikon välein. Pitkäaikaiskäytön tai vieroituksen suunnitelma tehdään kirjallisesti. Sovitaan, että potilaalle tehdään hoidon aikana alkometrin puhallutuksia tai virtsan huumeseula pistokokeina (joskin bentsodiatsepiinien pikatesteissä on monia virhelähteitä). Voinnin tarkistus ja kannustus ensimmäisen annoslaskun jälkeen joko vastaanotolla tai puhelimitse. Jos annoslaskun jälkeen ilmenee vieroitusoireita, ei nosteta annosta, vaan hidastetaan laskutahtia. Vieroituksessa voi kestää hyvinkin pitkään. Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
+
+Hankalissa tapauksissa (jos annos poikkeaa virallisista annossuosituksista, jos on vähänkään epäilyä hoidon keskittämisen epäonnistumisesta tai jos vieroitukset ovat toistuvasti epäonnistuneet), tehdään myös ns. apteekkisopimus. Apteekin kanssa voidaan tehdä annosjakelusopimus niin, että potilas saa kerralla vain 1–4 päivän lääkkeet.
+
+Potilaan lyhytvaikutteisemmat bentsot voi mahdollisesti vaihtaa diatsepaamiin ekvivalenttiannoksen mukaisesti 1-2 viikon aikana. Voi konsultoida tämän tarpeesta ja toteuttamisesta (ja yleensä muutenkin vieroituksen toteuttamisesta). Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
 
 Motivointi ja psykososiaalisen tuen antaminen ovat oleellinen osa hoitoa. Kognitiivisen käyttäytymisterapian liittäminen lääkelaskuun parantaa hoitotulosta. Unettomuuden hoidossa CBT-i ja mahdollisesti jopa muu unilääke, kuten pieniannoksinen doksepiini tarvittaessa. 
+
+![](images/bentsoalasajo.png)
   </div>
 </div>
 
@@ -713,9 +721,15 @@ Taustalla potilaalla voi hyvinkin olla yleistynyt ahdistuneisuushäiriö, jonka 
 
 Hoitosuunnitelmassa on tärkeää lähteä ottamaan riippuvuutta haltuun, eikä annoksen nostaminen nyt ole tässä tilanteessa oikea ratkaisu potilaalle. Potilaan kanssa tulee käydä läpi, että oireet todennäköisesti johtuvat bentsojen suuresta käytöstä ja tärkein hoito tässä vaiheessa on hallittu vieroitus niistä pois avohoidossa. Tavoitteena on palauttaa potilaan toimintakyky ja pysäyttää riippuvuuden pahentuminen.
 
-Pitkäaikaista käyttöä ei saa lopettaa seinään (kouristusvaara, delirium). Ennen lääkelaskun aloittamista lääkkeen käyttöä seurataan täyttämällä päiväkirjaa 1–2 viikon ajan. Lääkelaskun aloitusannosta varten arvioi potilaan käyttämä bentsodiatsepiiniannos/vrk. Mikäli potilas käyttää useita eri bentsodiatsepiinivalmisteita, laske kokonaisvuorokausiannos diatsepaamiekvivalenttiannoksena (taulukoita apuna, ei tarvitse ulkoa osata). Lääkkeen purkaminen pyritään toteuttamaan yhdellä bentsodiatsepiinivalmisteella (esimerkiksi oksatsepaami tai diatsepaami), eli vaihdetaan potilaan nopeavaikutteisemmat valmisteet pidempivaikutteisemmaksi diatsepaamiksi. Bentsodiatsepiinilääkitys puretaan laskemalla vuorokausiannosta 10–25 % kerrallaan 1–3 viikon välein. Voinnin tarkistus ja kannustus ensimmäisen annoslaskun jälkeen joko vastaanotolla tai puhelimitse. Jos annoslaskun jälkeen ilmenee vieroitusoireita, ei nosteta annosta, vaan hidastetaan laskutahtia. Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
+Annosta ei saa koskaan lopettaa seinään (kouristusvaara, delirium). Bentsojen ajasalo voidaan toteuttaa monella tavalla ja välillä se voidaan toteuttaa PTH:ssakin, jos potilaalla ei ole merkittäviä komorbiditeetteja tai päihteiden sekakäyttöä ja on motivoitunut hoitosuunnitelmaan. Annos ajetaan usein hitaasti alas pudottamalla vrk-annosta tilanteesta riippuen n. 10-25% 1-3 viikon välein. Pitkäaikaiskäytön tai vieroituksen suunnitelma tehdään kirjallisesti. Sovitaan, että potilaalle tehdään hoidon aikana alkometrin puhallutuksia tai virtsan huumeseula pistokokeina (joskin bentsodiatsepiinien pikatesteissä on monia virhelähteitä). Voinnin tarkistus ja kannustus ensimmäisen annoslaskun jälkeen joko vastaanotolla tai puhelimitse. Jos annoslaskun jälkeen ilmenee vieroitusoireita, ei nosteta annosta, vaan hidastetaan laskutahtia. Vieroituksessa voi kestää hyvinkin pitkään. Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
+
+Hankalissa tapauksissa (jos annos poikkeaa virallisista annossuosituksista, jos on vähänkään epäilyä hoidon keskittämisen epäonnistumisesta tai jos vieroitukset ovat toistuvasti epäonnistuneet), tehdään myös ns. apteekkisopimus. Apteekin kanssa voidaan tehdä annosjakelusopimus niin, että potilas saa kerralla vain 1–4 päivän lääkkeet.
+
+Potilaan lyhytvaikutteisemmat bentsot voi mahdollisesti vaihtaa diatsepaamiin ekvivalenttiannoksen mukaisesti 1-2 viikon aikana. Voi konsultoida tämän tarpeesta ja toteuttamisesta (ja yleensä muutenkin vieroituksen toteuttamisesta). Vieroitusoireita voidaan arvioida käyttämällä CIWA-B-lomakkeita. 
 
 Motivointi ja psykososiaalisen tuen antaminen ovat oleellinen osa hoitoa. Kognitiivisen käyttäytymisterapian liittäminen lääkelaskuun parantaa hoitotulosta. Unettomuuden hoidossa CBT-i ja mahdollisesti jopa muu unilääke, kuten pieniannoksinen doksepiini tarvittaessa. 
+
+![](images/bentsoalasajo.png)
   </div>
 </div>
 
@@ -807,7 +821,11 @@ Tietysti tulee myös huomioida mahdollisuus päihde- ja varsinkin stimulantti-in
 
 Tila tulee rauhallisesti selittää potilaalle: "Nykyiset oireet viittaavat maaniseen/hypomaaniseen jaksoon. Tämä voi liittyä kaksisuuntaiseen mielialahäiriöön ja masennuslääke on voinut laukaista oireet. Vauhti on kasvanut niin suureksi, että se alkaa olla sinulle vahingollista." Ei syyllistetä potilasta ja korostetaan, että tilanne on hoidettavissa. Älä lähde väittelemään hänen "lahjakkuudestaan", mutta aseta ammatilliset rajat (esim. kieltäydy kohteliaasti halauksesta).
 
-Tärkeää on seuraavaksi lääkityksen välitön muutos ja essitalopraamin lopettaminen. Lääke on lopetettava nopeasti, koska se ylläpitää ja voi pahentaa maniaa. Sen tilalle tarvitaan mielialaa tasaava lääkitys; tyypillisiä vaihtoehtoja ovat litium, valproaatti ja harvoin karbamatsepiini. Lamotrigiiniakin käytetään paljon, mutta se ei tehoa maniavaiheen hoidossa. Myös psykoosilääkkeitä käytetään. Kaksisuuntainen mielialahäiriö on psykiatriseen erikoissairaanhoitoon kuuluva sairaus, varsinkin akuuttivaiheessa. Mania vaatii yleensä psykiatrista sairaalahoitoa, tarvittaessa M1-lähetteellä. Mania itsessään mahdollistaa tahdosta riippumattoman hoidon, jos myös muut M1-edellytykset täyttyvät. Harhaluulojen tai hallusinaatioiden esiintyminen ei ole ratkaisevaa. Psykiatrisessa erikoissairaanhoidossa voidaan hoitaa yhteistyökykyisten maniapotilaiden lieviä maniavaiheita intensiivisessä avohoidossa; potilaalle tulee siis esitellä hoitovaihtoehtoja ja aina tavoitteena on saada tilanne hoitumaan vapaaehtoisesti.
+Tärkeää on seuraavaksi lääkityksen välitön muutos ja essitalopraamin lopettaminen. Lääke on lopetettava nopeasti, koska se ylläpitää ja voi pahentaa maniaa. Riippuen tilanteesta (kuinka kauan lääkettä on käytetty, sen annos ja manian vahvuus) mietitään, kuinka nopeasti lääke lopetetaan (välittömästi vai vieroitusoireiden mukaan vähän hitaammin titraten alas). Psykiatria tulee tietysti konsultoida, koska muutenkin bipolaarisen hoito kuuluu psykiatreille. 
+
+SSRI:n tilalle tarvitaan mielialaa tasaava lääkitys; tyypillisiä vaihtoehtoja ovat litium, valproaatti ja harvoin karbamatsepiini. Lamotrigiiniakin käytetään paljon, mutta se ei tehoa maniavaiheen hoidossa. Myös psykoosilääkkeitä käytetään. Kaksisuuntainen mielialahäiriö on psykiatriseen erikoissairaanhoitoon kuuluva sairaus, varsinkin akuuttivaiheessa. Mania vaatii yleensä psykiatrista sairaalahoitoa, tarvittaessa M1-lähetteellä. Mania itsessään mahdollistaa tahdosta riippumattoman hoidon, jos myös muut M1-edellytykset täyttyvät. Harhaluulojen tai hallusinaatioiden esiintyminen ei ole ratkaisevaa. Psykiatrisessa erikoissairaanhoidossa voidaan hoitaa yhteistyökykyisten maniapotilaiden lieviä maniavaiheita intensiivisessä avohoidossa; potilaalle tulee siis esitellä hoitovaihtoehtoja ja aina tavoitteena on saada tilanne hoitumaan vapaaehtoisesti.
+
+![](images/ssrimania.png)
   </div>
 </div>
 

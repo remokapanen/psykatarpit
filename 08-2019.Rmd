@@ -18,11 +18,15 @@ Joitain samanlaisia kysymyksiä on ollut aikaisempien vuosien kohdalla tässä k
 
 Yleisperiaate itsemurha-ajatuksista on se, että niistä ja itsemurhasuunnitelmista saa ja PITÄÄ kysyä. Kysyminen ei nosta riskiä itsemurhalle. 
 
-Niin jo itsemurhaa yrittäneillä kuin muutenkin, tulisi itsemurhavaaraa arvioitaessa vastata seuraaviin **kuuteen peruskysymykseen:**
+Itsemurhariskin arviointia tukemaan on kehitetty erilaisia kysely-/haastattelulomakkeita, joista yleisessä käytössä on C-SSRS (Columbia-Suicide Severity Rating Scale). C-SSRS mittaa itsetuhoista-ajattelua ja käyttäytymistä 4 eri alaskaalalla: 1) itsemurha-ajatusten vakavuus, 2) itsemurha-ajatusten intensiteetti, 3) itsemurhakäyttäytyminen ja 4) toteutuneen itsemurhayrityksen tosiasiallinen kuolemanvaara tai mahdollinen kuolemanvaara. Lomaketta voi käyttää tukenaan itsemurhariskin arviossa, mutta se ei ole todellakaan pakollista, vaan haastattelun voi tehdä vapaamuotoisestikin.
 
-<li>**Mitkä ovat itsemurha-ajatuksia selittävät syyt ja tavoitteet?**</li>
-<li>**Miten vakava on/oli ihmisen pyrkimys kuolla?**</li>
-<li>**Onko hänellä välitön pyrkimys itsemurhalle / selkeää toteutettavissa olevaa itsemurhasuunnitelmaa?**</li>
+Tärkeimpiä kysyttäviä asioita ovat mm: 
+
+<li>**Oletko koskaan toivonut olevasi kuollut? Oletko ajatellut itsesi tappamista? Onko sinulla suunnitelmaa tämän toteuttamiseksi?**</li>
+<li>**Kuinka usein sinulla on näitä ajatuksia? Kuinka kauan ne kestävät?**</li>
+<li>**Mitkä ovat itsemurha-ajatuksia selittävät syyt ja tavoitteet: "Miksi haluat kuolla?"**</li>
+<li>**Mikä on estänyt sinua tähän saakka?**</li>
+<li>**Miten vakava on/oli ihmisen pyrkimys kuolla ja kuinka välitön riski on: esim. "Oletko tehnyt itsemurhayritystä koskaan? Mitä teit? Mitä ajattelit selviytymisestä?", "Kerro suunnitelmastasi tarkemmin."**</li>
 <li>**Mitä välittömiä tai pitkäaikaisia ongelmia hänellä on, ja mikä laukaisisi itsemurhayrityksen?**</li>
   <ul>
    <li>Ajankohtaisia riskitekijöitä ovat mm:</li>
@@ -58,6 +62,8 @@ Niin jo itsemurhaa yrittäneillä kuin muutenkin, tulisi itsemurhavaaraa arvioit
 <li>Tukeva arkiympäristö</li>
 <li>Hyvä olemassa oleva hoitokontakti</li>
 
+![](images/ssrs1.png)
+![](images/ssrs2.png)
   </div>
 </div>
 
