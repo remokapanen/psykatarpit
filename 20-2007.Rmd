@@ -44,7 +44,7 @@ Ajankohtaisia riskitekijöitä ovat mm:
 <li>Psykologiset riskitekijät: toivottomuus, negatiiviset odotukset elämältä, yleinen elämään tyytymättömyys, impulsiivisuus</li>
 <li>Kielteiset elämäntapahtumat (erityisesti erot, menetykset, voimakasta häpeää tai syyllisyyttä aiheuttavat tapahtumat, erityisesti nuorilla riidat ja pettymykset laukaisevia tekijöitä itsetuhoisen käyttäytymisen taustalla</li>
 <li>Psykiatrisen sairauden vaikea vaihe (esim. psykoottinen depressio, kaksisuuntainen mielialahäiriö, skitsofrenia, päihteiden hallitsematon käyttö)</li>
-<li>Valmis ja toteutettavissa oleva tsemurhasuunnitelma</li>
+<li>Valmis ja toteutettavissa oleva itsemurhasuunnitelma</li>
 <li>Välineistö toteuttaa itsemurha</li>
 
 ---
@@ -103,6 +103,8 @@ Koska neuropsykiatrisissa oireissa tapahtuu muutoksia muistisairauden edetessä,
 
 Kannattaa vielä muistaa muut selittävät syyt, kuten kipu: muistisairas ei aina osaa sanoa, mihin sattuu. Kipu voi ilmetä huutona tai aggressiivisuutena. Myös infektioita tulee etsiä, koska ne voivat pahentaa oireilua (esim. VTI). 
 
+
+![](images/muistisairaankäytösoireet.png)
 ![](images/muistisairaudetnepsylääkitys.png)
   </div>
 </div>

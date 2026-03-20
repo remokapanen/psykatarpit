@@ -96,7 +96,7 @@ Itse laukaiseva tekijä alttiilla henkilöllä voi olla psykososiaalisesta stres
 
 <li>Psykososiaalinen stressi: Esim. menetykset, työstressi/työttömäksi joutuminen, suuret elämänmuutokset yleisesti</li>
 <li>Tuen puute: Yksinäisyys vähentää kyvykkyyttä selviytyä psykososiaalisesta stressistä ja muista tekijöistä</li>
-<li>Terveydelliset tekijät: Esim. aikaisemmat/uudemmat somaattiset sairaudet, kuten kilpirauahsen toimintahäiriöt, aivoinfarktit, krooninen kipu. Päihteet tulee aina muistaa ja kartoittaa (esim. alkoholi). Pitkittynyt heikko uni myös voi laukaista masennuksen.</li>
+<li>Terveydelliset tekijät: Esim. aikaisemmat/uudemmat somaattiset sairaudet, kuten kilpirauhasen toimintahäiriöt, aivoinfarktit, krooninen kipu. Päihteet tulee aina muistaa ja kartoittaa (esim. alkoholi). Pitkittyneesti heikko uni myös voi laukaista masennuksen.</li>
 
 ![](images/masennuksenetiologia.png)
   </div>
